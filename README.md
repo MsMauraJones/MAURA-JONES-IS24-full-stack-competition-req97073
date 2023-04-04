@@ -1,6 +1,6 @@
 ## Submission for Full Stack Code Challenge
 
-To review this challenge, please run the following:
+To review this challenge, after cloning the repo, please run the following:
 
 * Open a terminal
 * cd to the api folder
